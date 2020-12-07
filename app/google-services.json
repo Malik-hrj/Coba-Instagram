@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "396829985813",
+    "firebase_url": "https://coba-instagram.firebaseio.com",
+    "project_id": "coba-instagram",
+    "storage_bucket": "coba-instagram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396829985813:android:5b1a0f06adf087ae25521c",
+        "android_client_info": {
+          "package_name": "com.example.cobainstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396829985813-39o99ft7gn9k1femtk42g96t2tq0661v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cobainstagram",
+            "certificate_hash": "62ec35cd1fa048e8fde94a954a3739d3f3c18af8"
+          }
+        },
+        {
+          "client_id": "396829985813-h0r6jq2dasis3lid7rj1sg6npcdii7mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHK4y4xEK1-Sz0BY3XU3EbUrqzOVw577U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396829985813-h0r6jq2dasis3lid7rj1sg6npcdii7mi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
